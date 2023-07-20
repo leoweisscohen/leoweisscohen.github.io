@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Leonardo Weiss-Cohen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Assistant Professor at University of Nottingham researching decision-making"
+  location         : "School of Psychology, University Park Campus, Nottingham, NG7 2RD"
   employer         :
-  pubmed           : "Assistant Professor at University of Nottingham researching decision-making"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YvNGQHwAAAAJ&hl=en"
   email            : "leonardo.cohen@nottingham.ac.uk"
   researchgate     :  "https://www.researchgate.net/profile/Leonardo-Weiss-Cohen"
